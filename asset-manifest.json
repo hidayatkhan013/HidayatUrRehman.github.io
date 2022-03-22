@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6d32035.chunk.css",
+    "main.js": "/static/js/main.631a52ea.chunk.js",
+    "main.js.map": "/static/js/main.631a52ea.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.931e61bc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.931e61bc.js.map",
+    "static/js/2.3630d05a.chunk.js": "/static/js/2.3630d05a.chunk.js",
+    "static/js/2.3630d05a.chunk.js.map": "/static/js/2.3630d05a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e6d32035.chunk.css.map": "/static/css/main.e6d32035.chunk.css.map",
+    "static/js/2.3630d05a.chunk.js.LICENSE.txt": "/static/js/2.3630d05a.chunk.js.LICENSE.txt",
+    "static/media/Facebook.6b9c2e2f.svg": "/static/media/Facebook.6b9c2e2f.svg",
+    "static/media/Github.be4ff66c.svg": "/static/media/Github.be4ff66c.svg",
+    "static/media/GithubBtn.ac483aa7.svg": "/static/media/GithubBtn.ac483aa7.svg",
+    "static/media/Instagram.48837caf.svg": "/static/media/Instagram.48837caf.svg",
+    "static/media/Linkedin.d80f3bd2.svg": "/static/media/Linkedin.d80f3bd2.svg",
+    "static/media/Logo.733137cd.svg": "/static/media/Logo.733137cd.svg",
+    "static/media/Platzi.827e9ac0.svg": "/static/media/Platzi.827e9ac0.svg",
+    "static/media/PortfolioBtn.2e1a5e51.svg": "/static/media/PortfolioBtn.2e1a5e51.svg",
+    "static/media/Twitter.e6ce1989.svg": "/static/media/Twitter.e6ce1989.svg",
+    "static/media/batatabit.jpg": "/static/media/batatabit.c67393cf.jpg",
+    "static/media/blog.jpg": "/static/media/blog.6e6758e7.jpg",
+    "static/media/flowskip.jpg": "/static/media/flowskip.4e7b8227.jpg",
+    "static/media/me.59f810e6.jpg": "/static/media/me.59f810e6.jpg",
+    "static/media/musicPlayer.jpg": "/static/media/musicPlayer.c72131fc.jpg",
+    "static/media/platziBadges.jpg": "/static/media/platziBadges.190cd2f3.jpg",
+    "static/media/platziVideo.jpg": "/static/media/platziVideo.7c61bcf0.jpg",
+    "static/media/pumpkin.gif": "/static/media/pumpkin.1da68cd6.gif",
+    "static/media/rickAndMorty.jpg": "/static/media/rickAndMorty.0d7e6771.jpg",
+    "static/media/rockPaperAndScissors.jpg": "/static/media/rockPaperAndScissors.bb763044.jpg",
+    "static/media/simonSays.jpg": "/static/media/simonSays.6509aab0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.931e61bc.js",
+    "static/js/2.3630d05a.chunk.js",
+    "static/css/main.e6d32035.chunk.css",
+    "static/js/main.631a52ea.chunk.js"
+  ]
+}
