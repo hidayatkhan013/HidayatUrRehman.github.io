@@ -1,12 +1,12 @@
 {
   "short_name": "Portfolio",
-  "name": "Portafolio de Brandon",
+  "name": "Hidayat Ur Rehman",
   "theme_color": "#16ffe2",
   "background_color": "#0a102b",
   "orientation": "portrait",
   "start_url": "./?utm_source=web_app_manifest",
   "display": "standalone",
-  "description": "Brandon Argel is a Front-End Developer who likes to create and learn new things every day, he lives in Guadalajara Jal. Mexico ... main technologies: React , JavaScript, HTML, CSS ...",
+  "description": "C++ & Python Developer </span>, Currently, focused on developing technological innovations to solve Cyber Security, daily life & professional Problems . I’m passionate about Exploits Developments and working hard to achieve that goal.",
   "scope": "./",
   "lang": "en-US",
   "icons": [
